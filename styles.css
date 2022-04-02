@@ -1,0 +1,27 @@
+.start{
+text-align: center;
+background-color: grey;
+padding-top: 40px;
+padding-bottom: 15px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 33px;
+}
+
+.startimg{
+    text-align: center;
+}
+
+.startimg img{
+    margin-right: 40px;
+}
+
+.all{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 29px;
+    text-align:center; 
+    width:1500px; 
+    height:auto; 
+    padding-left:205px; 
+    padding-right:205px; 
+    max-width:1510px    
+}   
